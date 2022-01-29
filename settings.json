@@ -1,0 +1,28 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.tabSize": 2,
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "explorer.compactFolders": false,
+    "editor.lineHeight": 26,
+    "json.schemas": [
+        {
+            "name": "vscode-expo-manifest",
+            "url": "file:///Users/caayu/Library/Application%20Support/Code/User/globalStorage/bycedric.vscode-expo/manifest-44.0.0.json",
+            "fileMatch": [
+                "app.json",
+                "app.config.json"
+            ]
+        }
+    ],
+    "workbench.colorTheme": "Omni",
+    "typescript.preferences.quoteStyle": "single",
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.format.semicolons": "remove",
+    "javascript.format.semicolons": "remove",
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false
+}
